@@ -1,0 +1,24 @@
+Requisitos Funcionais
+Usuário deve cadastrar seu e-mail e senha para autenticação
+Usuário deve criar seu perfil de produto com as suas informações personalizadas de usuário (Definidas pelo tipo de usuário [Artista ou Casa de Show])
+Usuário deve cadastar métodos de recebimento (Para contratarem seus serviços)
+Usuário deve cadastrar métodos de pagamento (Para pagar pelo produto)
+Usuário deve visualizar o catálogo de exibição dos produtos
+Usuário pode filtrar os produtos que mais lhe agradam
+Usuário pode visualizar informações detalhadas dos produtos
+Usuário pode adicionar o produto na lista de favoritos
+Usuário pode contratar um produto
+Usuário deve ser notificado se alguém tem interesse em contratar seus serviços
+Usuário deve aprovar a contratação de seus serviços
+Usuário deve confirmar o método de pagamento e autenticar
+Usuário deve assinar digitalmente o contrato (Tipo de contrato é definido pelo tipo de usuário [Artista ou Casa de Show])
+Usuário deve receber um e-mail de confirmação de pagamento
+Usuário deve receber um e-mail de confirmação da assinatura de contrato
+Usuário deve receber um e-mail com todos os detalhes da contratação do serviço (Hora, Data, Local, Preço, Caracteristicas personalizadas do serviço)
+
+Requisitos Nâo Funcionais
+E-mails de confirmação devem ser enviados com velocidade (Não podem demorar mais que 5 min)
+Cadastro das informações de login deve conter um e-mail ativo e uma senha com no mínimo 8 caracteres (Contendo maíscula, mínuscula e carácter especial)
+Sistema deve utilizar um gerador de contratos eletronicos e assinatura digital certificado pela Republica Federativa do Brasil
+Sistema deve ser responsivo quando o usuário estiver fazendo cadastramento de informações, para não gerar retrabalho no preenchimento de tais informações
+Sistema deve utilizar uma linguagem de programação baseada em eventos para conseguir detectar oe eventuais eventos de pagamento entre outros.
