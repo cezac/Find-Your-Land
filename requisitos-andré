@@ -1,0 +1,15 @@
+Requisitos funcionais-
+- Cadastros de casas de show
+- Cadastros de artistas
+- Usuário deve ter cadastrado os modos de recebimento que ele aceita
+- Filtro da casa de show por caracteristicas (tais como estilos musicais e número de lotação de clientes)
+- Usuario pode ter casas de show/artistas adicionados em sua lista de favoritos
+- Usuario pode fazer avaliação sobre a casa de show/artista
+
+
+Requisitos não funcionais-
+-Segurança (Dados pessoais de clientes e de pagamentos)
+-Interface facil de ser lida e compreendida
+-Sistema responsivo
+
+
