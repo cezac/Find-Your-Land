@@ -1,0 +1,37 @@
+REQUISITOS FUNCIONAIS
+
+- Cadastro de Estabelecimentos:
+	- Permitir que os donos de estabelecimentos se cadastrem na plataforma.
+	- Coletar informações do estabelecimento como endereço, horário de funcionamento, público máximo, infraestrutura, preço para alugar, serviços complementares, etc.
+	- Permitir que os estabelecimentos insiram modelos pré-determinados de contratação.
+
+- Cadastro de Usuários/Artistas: 
+	- Permitir que artistas ou pessoas físicas/jurídicas se cadastrem na plataforma.
+	- Coletar informações necessárias para fechamento de acordo comercial durante o cadastro.
+
+- Busca e Visualização de Estabelecimentos:
+	- Permitir que os usuários busquem por estabelecimentos disponíveis para apresentações.
+	- Apresentar detalhes dos estabelecimentos ao usuário.
+	
+- Contratação:
+	- Permitir que os usuários escolham um modelo pré-determinado de contratação para o estabelecimento.
+	- Oferecer a opção de contato direto entre o artista e o dono do estabelecimento para discussões personalizadas.
+	- Notificar o dono do estabelecimento quando um interesse de contrato for manifestado.
+	
+- Tipos de Conta:
+	- Implementar dois tipos de contas: para donos de estabelecimentos (prestadores) e para artistas (consumidores).
+	- Conceder permissões e recursos distintos com base no tipo de conta.
+
+REQUISITOS NAO FUNCIONAIS
+
+- Usabilidade:
+	- Interface intuitiva e responsiva para facilitar a interação do usuário.
+	- Garantir que os dados dos estabelecimentos sejam apresentados de forma clara e estruturada para rápida compreensão.
+
+- Performance:
+	- Garantir tempos de resposta rápidos, especialmente na busca de estabelecimentos.
+	- O aplicativo deve suportar um grande número de usuários simultâneos.
+
+- Segurança: 
+	- Os dados dos usuários e estabelecimentos devem ser armazenados de forma segura.
+	- Implementar sistemas de autenticação e autorização robustos para proteger as contas de usuários e estabelecimentos.
